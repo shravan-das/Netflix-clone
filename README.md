@@ -1,3 +1,11 @@
+#About The Project
+created a Netflix clone using React.js and Google Firebase. Utilized React components and state management to create a dynamic and interactive user interface, and leveraged Firebase
+for user authentication and database management. By integrating the Netflix API, I was able to fetch and
+display real-time movie data, and utilized modern styling techniques like tailwind css to create a visually
+appealing and seamless user experience.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
