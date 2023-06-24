@@ -13,7 +13,7 @@ This is a Netflix clone app built using ReactJS and Firebase as the backend, sty
 
 ## Introduction
 
-The Netflix Clone App is a web application that emulates the user interface and functionality of Netflix. It allows users to browse through a catalog of movies and TV shows, watch trailers, and stream content.
+The Netflix Clone App is a web application that emulates the user interface and functionality of Netflix.
 
 The app is built using ReactJS, a popular JavaScript library for building user interfaces, and Firebase, a cloud-based backend service. Tailwind CSS is used for styling the application, providing a responsive and visually appealing design.
 
